@@ -3,9 +3,45 @@ data,descricao,categoria,valor,tipo
 2025-10-02,Aluguel,moradia,1200.00,saida
 2025-10-03,Supermercado,alimentacao,450.00,saida
 2025-10-05,Netflix,lazer,55.90,saida
+2025-10-06,Spotify,lazer,39.90,saida
 2025-10-07,Farmácia,saude,89.00,saida
 2025-10-10,Restaurante,alimentacao,120.00,saida
 2025-10-12,Uber,transporte,45.00,saida
 2025-10-15,Conta de Luz,moradia,180.00,saida
 2025-10-20,Academia,saude,99.00,saida
 2025-10-25,Combustível,transporte,250.00,saida
+2025-11-01,Salário,receita,5000.00,entrada
+2025-11-02,Aluguel,moradia,1200.00,saida
+2025-11-03,Supermercado,alimentacao,450.00,saida
+2025-11-05,Netflix,lazer,55.90,saida
+2025-11-06,Spotify,lazer,39.90,saida
+2025-11-07,Farmácia,saude,89.00,saida
+2025-11-10,Restaurante,alimentacao,120.00,saida
+2025-11-12,Uber,transporte,45.00,saida
+2025-11-15,Conta de Luz,moradia,180.00,saida
+2025-11-20,Academia,saude,99.00,saida
+2025-11-25,Combustível,transporte,250.00,saida
+2025-12-01,Salário,receita,5000.00,entrada
+2025-12-02,Aluguel,moradia,1200.00,saida
+2025-12-03,Supermercado,alimentacao,450.00,saida
+2025-12-05,Netflix,lazer,55.90,saida
+2025-12-06,Spotify,lazer,39.90,saida
+2025-12-07,Farmácia,saude,89.00,saida
+2025-12-10,Restaurante,alimentacao,120.00,saida
+2025-12-12,Uber,transporte,45.00,saida
+2025-12-15,Conta de Luz,moradia,180.00,saida
+2025-12-20,Academia,saude,99.00,saida
+2025-12-25,Combustível,transporte,250.00,saida
+2026-01-01,Salário,receita,5000.00,entrada
+2026-01-02,Aluguel,moradia,1200.00,saida
+2026-01-03,Supermercado,alimentacao,450.00,saida
+2026-01-05,Netflix,lazer,55.90,saida
+2026-01-06,Spotify,lazer,39.90,saida
+2026-01-07,Farmácia,saude,89.00,saida
+2026-01-10,Restaurante,alimentacao,120.00,saida
+2026-01-12,Uber,transporte,45.00,saida
+2026-01-15,Conta de Luz,moradia,180.00,saida
+2026-01-20,Academia,saude,99.00,saida
+2026-01-25,Combustível,transporte,250.00,saida
+
+
